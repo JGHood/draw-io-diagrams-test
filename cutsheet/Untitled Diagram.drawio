@@ -239,8 +239,8 @@
         <mxCell id="kuuHvWOsZGcF03gMZcih-78" value="Is the sibling modied on the new layer?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="406" y="787" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xx5x_uMALJ7EPCq8Be9p-1" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="801.5" y="591.5" width="47" height="50" as="geometry" />
+        <mxCell id="Xx5x_uMALJ7EPCq8Be9p-1" value="&lt;div&gt;Test 5&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="794.5" y="591.5" width="61" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
